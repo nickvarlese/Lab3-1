@@ -1,4 +1,5 @@
 //This is a great program Thomas Langton, Lucas Silva, Matt Roberts 2/8/2016
+//This is not a great program its really bad. Nick Varlese, Andrea Elwell
 
 public class HelloWorld
 {
